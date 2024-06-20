@@ -51,7 +51,7 @@ To run this server, you need:
 1. **Clone the repository:**
 
    ```bash
-   git clone [(https://github.com/Vishwa-03/Slidely-task-2-backend)]
+   git clone https://github.com/Vishwa-03/Slidely-task-2-backend
    cd backend-repository
 ### Usage
  - npm start
