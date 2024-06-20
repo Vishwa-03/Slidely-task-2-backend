@@ -52,6 +52,6 @@ To run this server, you need:
 
    ```bash
    git clone https://github.com/Vishwa-03/Slidely-task-2-backend
-   cd backend-repository
+   cd Slidely-task-2-backend
 ### Usage
  - npm start
