@@ -1,4 +1,4 @@
-# Submission Management Backend Server
+# Submission Management Backend Server (Slidely Task 2 - BackEnd)
 
 This Express server provides APIs for managing submissions including creation, retrieval, deletion, editing, and searching based on email. Submissions are stored in a JSON file (`db.json`).
 
@@ -51,7 +51,7 @@ To run this server, you need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Vishwa03/backend-repository.git
+   git clone [(https://github.com/Vishwa-03/Slidely-task-2-backend)]
    cd backend-repository
 ### Usage
  - npm start
